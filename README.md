@@ -1,6 +1,6 @@
 # Guitar LA
 
-Tienda virtual de guitarras, en la cual se muestra un catálogo de las mismas que incluye imagen, descripción y precio de cada una, además de poder agregarlas al carrito y aumentar el número de guitarras para pedido, lo cual hará que el total de la compra de ajuste de manera dinámica.
+Tienda virtual de guitarras, en la cual se muestra un catálogo de las mismas que incluye imagen, descripción y precio de cada una, además de poder agregarlas al carrito y aumentar el número de guitarras para pedido, lo cual hará que el total de la compra de ajuste de manera dinámica, todo esto con el uso de Vue 3 utilizando Componentes, State, Eventos, Custom Events, Props, Emits, Directivas, Watch y Computed.
 
 ## Tecnologías utilizadas:
 
