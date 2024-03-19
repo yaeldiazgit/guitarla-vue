@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Guitar LA
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Tienda virtual de guitarras, en la cual se muestra un catálogo de las mismas que incluye imagen, descripción y precio de cada una, además de poder agregarlas al carrito y aumentar el número de guitarras para pedido, lo cual hará que el total de la compra de ajuste de manera dinámica.
 
-## Recommended IDE Setup
+## Tecnologías utilizadas:
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
